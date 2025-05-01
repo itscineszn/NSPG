@@ -58,6 +58,10 @@ footer {
     margin-bottom: 2%;
 }
 
+.feedback button:hover {
+    background-color: #B58A8A;
+}
+
 .copyright {
     display: flex;
     justify-content: center;
